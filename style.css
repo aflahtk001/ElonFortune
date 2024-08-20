@@ -1,0 +1,113 @@
+body{
+  margin: 0px;
+  padding: 0px;
+}
+a{
+  text-decoration: none;
+}
+.hero{
+  background-color: #00aec7;
+}
+.heroImage{
+  width: 100%;
+  height: 100%;
+}
+.heroHead{
+  color: aliceblue;
+  font-size: 80px;
+  margin-top: 120px;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.heroQuate{
+  color: aliceblue;
+  font-size: 20px;
+  margin-top: 15px;
+  text-align: center;
+  font-family:'Courier New', Courier, monospace;
+}
+.stickyScore{
+  background-color: #00aec7;
+  width: 100%;
+  height: 70px;
+  text-align: center;
+  font-size: 30px;
+  padding-top: 11px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: aliceblue;
+}
+.content{
+  margin-top: 50px;
+}
+.contentHead{
+  text-align: center;
+}
+.contentHeadText{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+  color: #00aec7;
+}
+.contentSubText{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  margin-bottom: 50px;
+}
+.card{
+  width: 100%;
+  margin-bottom: 25px;
+}
+.countSpace{
+  width: 100px;
+  text-align: center;
+  font-size: 20px;
+  margin-top: 10px;
+}
+.btn-group{
+  display: flex;
+  justify-content: space-around;
+}
+.card-text{
+  color: #00aec7;
+}
+.iconsDiv{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background-color: #dedede;
+  padding-top: 15px;
+}
+svg{
+  width: 20px;
+  height: 20px;
+}
+.hrDiv{
+  background-color: #dedede;
+  display: flex;
+  justify-content: center;
+}
+.hrLine{
+  color: black;
+  width: 90%;
+  margin: 0px;
+}
+.copyRight{
+  background-color: #dedede;
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+}
+.copyRightLink{
+  color: black;
+}
+.receiptHeadText{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  color: #00aec7;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.receiptList{
+  text-align: start;
+  font-family: Arial, Helvetica, sans-serif;
+}
